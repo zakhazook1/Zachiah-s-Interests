@@ -1,0 +1,36 @@
+		body {
+			background-color: teal;
+		}
+
+		h1 {
+			color: white;
+			text-align: center;
+		}
+
+    h3 {
+      color: silver;
+    }
+
+		p {
+      color: black;
+			font-family: georgia;
+			font-size: 15px;
+      width: 1000px;
+    }
+    
+    #reading-section {
+     border-style: solid;
+     border-color: tomato;
+    }
+
+    #diy-crafting {
+      border-style: solid;
+      border-color: aquamarine;
+      
+    }
+
+    #gardening-section {
+      border-style: solid;
+      border-color: dodgerblue;
+      
+    }
